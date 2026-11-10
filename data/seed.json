@@ -1,0 +1,402 @@
+[
+ {
+  "delivery_id": "DL-681243",
+  "farmer_id": "F-20467",
+  "crop": "beans",
+  "paid_usd": 512.91,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-25T18:09:30Z"
+ },
+ {
+  "delivery_id": "DL-688453",
+  "farmer_id": "F-97564",
+  "crop": "soybeans",
+  "paid_usd": 953.09,
+  "payment_status": "held",
+  "delivered_at": "2026-10-24T18:27:31Z"
+ },
+ {
+  "delivery_id": "DL-865733",
+  "farmer_id": "F-24260",
+  "crop": "sorghum",
+  "paid_usd": 309.36,
+  "payment_status": "pending",
+  "delivered_at": "2026-10-24T09:23:59Z"
+ },
+ {
+  "delivery_id": "DL-817378",
+  "farmer_id": "F-88473",
+  "crop": "sorghum",
+  "paid_usd": 291.65,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-23T10:47:48Z"
+ },
+ {
+  "delivery_id": "DL-198003",
+  "farmer_id": "F-54237",
+  "crop": "groundnuts",
+  "paid_usd": 366.33,
+  "payment_status": "pending",
+  "delivered_at": "2026-10-18T18:24:39Z"
+ },
+ {
+  "delivery_id": "DL-471002",
+  "farmer_id": "F-54237",
+  "crop": "groundnuts",
+  "paid_usd": 776.92,
+  "payment_status": "held",
+  "delivered_at": "2026-10-18T18:24:39Z"
+ },
+ {
+  "delivery_id": "DL-965001",
+  "farmer_id": "F-54237",
+  "crop": "groundnuts",
+  "paid_usd": 820.09,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-18T18:24:39Z"
+ },
+ {
+  "delivery_id": "DL-670000",
+  "farmer_id": "F-54237",
+  "crop": "groundnuts",
+  "paid_usd": 422.55,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-18T18:24:39Z"
+ },
+ {
+  "delivery_id": "DL-917893",
+  "farmer_id": "F-54237",
+  "crop": "groundnuts",
+  "paid_usd": 836.61,
+  "payment_status": "held",
+  "delivered_at": "2026-10-18T18:24:39Z"
+ },
+ {
+  "delivery_id": "DL-146723",
+  "farmer_id": "F-17291",
+  "crop": "groundnuts",
+  "paid_usd": 776.56,
+  "payment_status": "pending",
+  "delivered_at": "2026-10-18T01:36:27Z"
+ },
+ {
+  "delivery_id": "DL-577453",
+  "farmer_id": "F-17291",
+  "crop": "beans",
+  "paid_usd": 1049.37,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-17T14:59:09Z"
+ },
+ {
+  "delivery_id": "DL-137975",
+  "farmer_id": "F-54237",
+  "crop": "maize",
+  "paid_usd": 602.5,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-15T14:23:09Z"
+ },
+ {
+  "delivery_id": "DL-512239",
+  "farmer_id": "F-88473",
+  "crop": "sorghum",
+  "paid_usd": 931.96,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-14T11:46:37Z"
+ },
+ {
+  "delivery_id": "DL-520640",
+  "farmer_id": "F-97564",
+  "crop": "beans",
+  "paid_usd": 319.45,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-11T23:50:30Z"
+ },
+ {
+  "delivery_id": "DL-438656",
+  "farmer_id": "F-24260",
+  "crop": "sorghum",
+  "paid_usd": 1142.37,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-10T14:49:50Z"
+ },
+ {
+  "delivery_id": "DL-876708",
+  "farmer_id": "F-41021",
+  "crop": "beans",
+  "paid_usd": 530.36,
+  "payment_status": "held",
+  "delivered_at": "2026-10-10T02:20:21Z"
+ },
+ {
+  "delivery_id": "DL-928280",
+  "farmer_id": "F-41021",
+  "crop": "maize",
+  "paid_usd": 1136.42,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-08T21:48:51Z"
+ },
+ {
+  "delivery_id": "DL-631288",
+  "farmer_id": "F-20467",
+  "crop": "soybeans",
+  "paid_usd": 146.95,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-07T19:48:54Z"
+ },
+ {
+  "delivery_id": "DL-829970",
+  "farmer_id": "F-97564",
+  "crop": "soybeans",
+  "paid_usd": 579.95,
+  "payment_status": "held",
+  "delivered_at": "2026-10-07T04:23:05Z"
+ },
+ {
+  "delivery_id": "DL-182443",
+  "farmer_id": "F-41021",
+  "crop": "groundnuts",
+  "paid_usd": 304.87,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-07T02:31:40Z"
+ },
+ {
+  "delivery_id": "DL-888878",
+  "farmer_id": "F-24048",
+  "crop": "beans",
+  "paid_usd": 151.97,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-06T21:53:26Z"
+ },
+ {
+  "delivery_id": "DL-769100",
+  "farmer_id": "F-24048",
+  "crop": "soybeans",
+  "paid_usd": 636.09,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-06T17:25:03Z"
+ },
+ {
+  "delivery_id": "DL-341581",
+  "farmer_id": "F-54237",
+  "crop": "maize",
+  "paid_usd": 1055.73,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-06T10:52:02Z"
+ },
+ {
+  "delivery_id": "DL-645380",
+  "farmer_id": "F-88473",
+  "crop": "sorghum",
+  "paid_usd": 964.7,
+  "payment_status": "held",
+  "delivered_at": "2026-10-06T08:25:12Z"
+ },
+ {
+  "delivery_id": "DL-351717",
+  "farmer_id": "F-48618",
+  "crop": "beans",
+  "paid_usd": 1023.71,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-06T00:49:00Z"
+ },
+ {
+  "delivery_id": "DL-117716",
+  "farmer_id": "F-97564",
+  "crop": "sorghum",
+  "paid_usd": 592.67,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-05T02:36:02Z"
+ },
+ {
+  "delivery_id": "DL-939512",
+  "farmer_id": "F-48618",
+  "crop": "groundnuts",
+  "paid_usd": 237.78,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-03T14:16:14Z"
+ },
+ {
+  "delivery_id": "DL-827496",
+  "farmer_id": "F-48618",
+  "crop": "maize",
+  "paid_usd": 1201.73,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-03T06:05:09Z"
+ },
+ {
+  "delivery_id": "DL-406189",
+  "farmer_id": "F-20467",
+  "crop": "sorghum",
+  "paid_usd": 1099.36,
+  "payment_status": "paid",
+  "delivered_at": "2026-10-01T06:57:25Z"
+ },
+ {
+  "delivery_id": "DL-795212",
+  "farmer_id": "F-24048",
+  "crop": "groundnuts",
+  "paid_usd": 878.32,
+  "payment_status": "paid",
+  "delivered_at": "2026-09-30T08:47:38Z"
+ },
+ {
+  "delivery_id": "DL-707605",
+  "farmer_id": "F-88473",
+  "crop": "sorghum",
+  "paid_usd": 496.76,
+  "payment_status": "held",
+  "delivered_at": "2026-09-29T23:18:28Z"
+ },
+ {
+  "delivery_id": "DL-538219",
+  "farmer_id": "F-17291",
+  "crop": "sorghum",
+  "paid_usd": 387.4,
+  "payment_status": "paid",
+  "delivered_at": "2026-09-28T23:35:55Z"
+ },
+ {
+  "delivery_id": "DL-225501",
+  "farmer_id": "F-48618",
+  "crop": "soybeans",
+  "paid_usd": 878.44,
+  "payment_status": "paid",
+  "delivered_at": "2026-09-27T21:49:27Z"
+ },
+ {
+  "delivery_id": "DL-387881",
+  "farmer_id": "F-41021",
+  "crop": "groundnuts",
+  "paid_usd": 939.21,
+  "payment_status": "paid",
+  "delivered_at": "2026-09-27T07:47:42Z"
+ },
+ {
+  "delivery_id": "DL-703573",
+  "farmer_id": "F-82500",
+  "crop": "groundnuts",
+  "paid_usd": 1040.58,
+  "payment_status": "paid",
+  "delivered_at": "2026-09-25T05:01:07Z"
+ },
+ {
+  "delivery_id": "DL-999498",
+  "farmer_id": "F-48618",
+  "crop": "maize",
+  "paid_usd": 1020.2,
+  "payment_status": "held",
+  "delivered_at": "2026-09-22T03:49:00Z"
+ },
+ {
+  "delivery_id": "DL-462691",
+  "farmer_id": "F-41021",
+  "crop": "beans",
+  "paid_usd": 613.22,
+  "payment_status": "paid",
+  "delivered_at": "2026-09-20T14:54:29Z"
+ },
+ {
+  "delivery_id": "DL-523073",
+  "farmer_id": "F-88473",
+  "crop": "soybeans",
+  "paid_usd": 901.17,
+  "payment_status": "held",
+  "delivered_at": "2026-09-20T14:13:46Z"
+ },
+ {
+  "delivery_id": "DL-333937",
+  "farmer_id": "F-59933",
+  "crop": "maize",
+  "paid_usd": 369.84,
+  "payment_status": "paid",
+  "delivered_at": "2026-09-19T03:45:52Z"
+ },
+ {
+  "delivery_id": "DL-181182",
+  "farmer_id": "F-54237",
+  "crop": "sorghum",
+  "paid_usd": 1318.42,
+  "payment_status": "held",
+  "delivered_at": "2026-09-18T22:54:22Z"
+ },
+ {
+  "delivery_id": "DL-758291",
+  "farmer_id": "F-48618",
+  "crop": "beans",
+  "paid_usd": 386.87,
+  "payment_status": "paid",
+  "delivered_at": "2026-09-16T18:07:01Z"
+ },
+ {
+  "delivery_id": "DL-502440",
+  "farmer_id": "F-59933",
+  "crop": "groundnuts",
+  "paid_usd": 910.48,
+  "payment_status": "pending",
+  "delivered_at": "2026-09-14T23:13:17Z"
+ },
+ {
+  "delivery_id": "DL-414967",
+  "farmer_id": "F-54237",
+  "crop": "beans",
+  "paid_usd": 553.97,
+  "payment_status": "paid",
+  "delivered_at": "2026-09-14T05:02:21Z"
+ },
+ {
+  "delivery_id": "DL-336756",
+  "farmer_id": "F-88473",
+  "crop": "maize",
+  "paid_usd": 1227.07,
+  "payment_status": "held",
+  "delivered_at": "2026-09-13T14:29:38Z"
+ },
+ {
+  "delivery_id": "DL-717705",
+  "farmer_id": "F-24260",
+  "crop": "groundnuts",
+  "paid_usd": 844.69,
+  "payment_status": "paid",
+  "delivered_at": "2026-09-12T22:00:03Z"
+ },
+ {
+  "delivery_id": "DL-431769",
+  "farmer_id": "F-48618",
+  "crop": "soybeans",
+  "paid_usd": 1326.29,
+  "payment_status": "paid",
+  "delivered_at": "2026-09-12T01:41:11Z"
+ },
+ {
+  "delivery_id": "DL-475738",
+  "farmer_id": "F-24048",
+  "crop": "beans",
+  "paid_usd": 152.55,
+  "payment_status": "paid",
+  "delivered_at": "2026-09-11T15:23:15Z"
+ },
+ {
+  "delivery_id": "DL-884386",
+  "farmer_id": "F-24048",
+  "crop": "maize",
+  "paid_usd": 1250.75,
+  "payment_status": "held",
+  "delivered_at": "2026-09-10T13:49:05Z"
+ },
+ {
+  "delivery_id": "DL-837268",
+  "farmer_id": "F-24260",
+  "crop": "maize",
+  "paid_usd": 1056.54,
+  "payment_status": "paid",
+  "delivered_at": "2026-09-06T01:06:16Z"
+ },
+ {
+  "delivery_id": "DL-731868",
+  "farmer_id": "F-48618",
+  "crop": "groundnuts",
+  "paid_usd": 56.38,
+  "payment_status": "pending",
+  "delivered_at": "2026-09-04T11:39:16Z"
+ }
+]
